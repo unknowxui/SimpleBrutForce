@@ -1,5 +1,3 @@
-# SimpleBrutForce
-
 # Result OK
 ```go
 Brut force start....
